@@ -4,7 +4,7 @@
   <a href="mailto:jacondinoanderson@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=jacondinoanderson@gmail.com&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
 </p>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacondino&hide=stars,contribs,issues&show_icons=true&theme=dracula&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacondino&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=jacondino&hide=stars,contribs,issues&show_icons=true&theme=dracula&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacondino&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
 </div>
 
