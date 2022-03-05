@@ -3,7 +3,6 @@
   <a href="https://www.linkedin.com/in/anderson-jacondino"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Anderson Jacondino&color=blue&logo=linkedin&style=flat-square&logoColor=white"></a>
   <a href="mailto:jacondinoanderson@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=jacondinoanderson@gmail.com&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
 </p>
-<h4>I'm Frontend developer based in Brazil</h4>
 📚 Skills: JavaScript, CSS3, HTML5, Node, React, Flux, Redux, Vuejs, NextJs, GraphQL, React Native, SEO, UI/UX, Typescript, Sass, Docker, Kubernates <br/>
 🔧 Tools: VSCode, React Dev Tools, Git, Github Actions <br/>
 📖 I'm currently learning: Microfrontends and Design Systems <br/><br/>
