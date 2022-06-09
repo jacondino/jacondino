@@ -5,7 +5,6 @@
 </p>
 📚 Skills: JavaScript, CSS3, HTML5, Node, React, Flux, Redux, Vuejs, NextJs, GraphQL, React Native, SEO, UI/UX, Typescript, Sass, Docker, Kubernates <br/>
 🔧 Tools: VSCode, React Dev Tools, Git, Github Actions <br/>
-📖 I'm currently learning: Microfrontends and Design Systems <br/><br/>
 
 Always based on clean code, patterns, coding best practices, SOLID principles and testing to ensure code quality.
 
