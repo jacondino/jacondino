@@ -11,7 +11,6 @@ Always based on clean code, patterns, coding best practices, SOLID principles an
 
 <div align="left">
 <div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=jacondino&hide=stars,contribs,issues&show_icons=true&theme=dracula&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacondino&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
 </div>
   </div>
